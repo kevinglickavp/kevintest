@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "kevinglickavp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92393132?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "kevinglickavp",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-04-30T14:20:07.542Z",
-    "updated_at": "2025-04-30T14:20:07.542Z"
-  }
+    "updated_at": "2025-04-30T14:20:07.542Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "b47e8597-b5bd-41e3-85b1-82b5cc240a56": {
+      "content": [],
+      "created_at": "2025-04-30T14:20:07.576Z",
+      "created_by": "kevinglickavp",
+      "title": "Kevin Test AVAnnotate",
+      "updated_at": "2025-04-30T14:20:07.576Z",
+      "updated_by": "kevinglickavp",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b47e8597-b5bd-41e3-85b1-82b5cc240a56"
+  ]
 }
