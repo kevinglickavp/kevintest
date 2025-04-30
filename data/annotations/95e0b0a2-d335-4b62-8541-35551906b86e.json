@@ -1,0 +1,22 @@
+{
+  "event_id": "f9d32070-0765-40ca-9358-d6a968cd267f",
+  "source_id": "e5e9a789-7090-41ed-a639-b56bbe2a01c0",
+  "set": "Intro to Aviary Default English Transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16.97,
+      "annotation": [
+        {
+          "text": "Narrator:",
+          "bold": true
+        },
+        {
+          "text": " It'd be nice if people could search audiovisual content in the same way that they search across and through text documents. It's almost as if your audio and video files are stranded, separated from other content. It simply doesn't feel like they're being used to their fullest potential."
+        }
+      ],
+      "tags": [],
+      "uuid": "629abd98-8dbc-49a7-a39f-db6349948d3e"
+    }
+  ]
+}

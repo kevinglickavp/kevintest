@@ -1,0 +1,106 @@
+{
+  "event_id": "f4bcce47-bf33-4367-9f9b-cea83a5778bd",
+  "source_id": "919c3ea9-a373-490c-9f5b-89179d5829d8",
+  "set": "Aviary Example Transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 10.54545,
+      "annotation": [
+        {
+          "text": "You have a lot of audio and video content that you want to share. Even if you have it organized, it's often hard for people to find exactly what they're looking for."
+        }
+      ],
+      "tags": [],
+      "uuid": "79307169-ec8b-4d2f-9f46-acbf8437f9ab"
+    },
+    {
+      "start_time": 10.54545,
+      "end_time": 15.71255,
+      "annotation": [
+        {
+          "text": "It'd be nice if people could search audiovisual content in the same way that they search across and through text documents."
+        }
+      ],
+      "tags": [],
+      "uuid": "837fe180-2869-42cb-891b-eaca1d31f25b"
+    },
+    {
+      "start_time": 15.71255,
+      "end_time": 19.89216,
+      "annotation": [
+        {
+          "text": "It's almost as if your audio and video files are stranded separated from other content,."
+        }
+      ],
+      "tags": [],
+      "uuid": "71cd63a3-f426-48be-9895-1fbeca65ee15"
+    },
+    {
+      "start_time": 19.89216,
+      "end_time": 23.17614,
+      "annotation": [
+        {
+          "text": "It simply doesn't feel like they are being used to their fullest potential."
+        }
+      ],
+      "tags": [],
+      "uuid": "5f08fe51-9ca6-46e0-8123-9727454bd73a"
+    },
+    {
+      "start_time": 23.17614,
+      "end_time": 47.27804,
+      "annotation": [
+        {
+          "text": "Enter Aviary, a platform for sharing, searching, and navigating audiovisual content in a totally new way."
+        }
+      ],
+      "tags": [],
+      "uuid": "6c085067-4d2f-434b-9ed3-47da938ef4db"
+    },
+    {
+      "start_time": 47.27804,
+      "end_time": 52.63402,
+      "annotation": [
+        {
+          "text": "You can search across all content in Aviary using keywords and phrases, use facets to filter results, using dates, locations, languages and more."
+        }
+      ],
+      "tags": [],
+      "uuid": "340ae97f-c87d-4a01-83c3-d5101e670e92"
+    },
+    {
+      "start_time": 52.63402,
+      "end_time": 57.99,
+      "annotation": [
+        {
+          "text": "And Aviary displays and searches audiovisual content with fully synchronized transcripts, indexes, and annotations, offering direct access to key points in an audiovisual timeline."
+        }
+      ],
+      "tags": [],
+      "uuid": "f8967586-046a-47b4-ba2b-49833669af9e"
+    },
+    {
+      "start_time": 57.99,
+      "end_time": 58.84714,
+      "annotation": [
+        {
+          "text": "Organizations can sync, import or upload their audiovisual collections directly into the Aviary platform, and they can adjust permissions to each item to ensure access is available for intended audiences."
+        }
+      ],
+      "tags": [],
+      "uuid": "2c707c6a-b8f5-400e-83cd-e7d317afa1d9"
+    },
+    {
+      "start_time": 58.84714,
+      "end_time": 84.11733,
+      "annotation": [
+        {
+          "text": "With Aviary audio and video content is accessible, connected, and protected like never before."
+        }
+      ],
+      "tags": [],
+      "uuid": "5e15a409-9e68-4ba0-ac46-cedb5b21dcee"
+    }
+  ]
+}

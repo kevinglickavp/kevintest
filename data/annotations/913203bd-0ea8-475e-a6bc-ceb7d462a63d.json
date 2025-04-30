@@ -1,0 +1,29 @@
+{
+  "event_id": "f4bcce47-bf33-4367-9f9b-cea83a5778bd",
+  "source_id": "919c3ea9-a373-490c-9f5b-89179d5829d8",
+  "set": "[Deepgram Transcript] AviaryDemo_0119_ac.mp4 [Transcript]",
+  "annotations": [
+    {
+      "start_time": 1.55482,
+      "end_time": 30.85855,
+      "annotation": [
+        {
+          "text": "You have a lot of audio and video content that you wanna share. Even if you have it organized, It's often hard for people to find exactly what they are looking for. It'd be nice if people could search audio visual content in the same way that they search across and through text documents. It's almost as if your audio and video files are stranded; separated from other content. It simply doesn't feel like they are being used to their fullest potential. Enter avi."
+        }
+      ],
+      "tags": [],
+      "uuid": "b9289a69-c329-48cf-998b-76cd4f9e7943"
+    },
+    {
+      "start_time": 30.85855,
+      "end_time": 74.76303,
+      "annotation": [
+        {
+          "text": "A platform for sharing, searching and navigating audio-visual content in a totally new way. You can search across all content in Aviary using keywords and phrases, use facets to filter results, using dates, locations, languages and more. And Aviary displays and searches audio-visual content with fully synchronized transcripts, indexes and annotation; offering direct access to key points in an audio-visual timeline. Organizations can sync, import or upload their audio-visual collections directly into the Av platform form, and they can adjust permissions to each item to ensure access is available for intended audiences. With Aviary, audio and video content is accessible, connected and protected like never before."
+        }
+      ],
+      "tags": [],
+      "uuid": "30afa5c8-11c8-4eeb-866d-ce07626fdc96"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "event_id": "3a480a4a-6f09-41e6-941c-43466123b885",
+  "source_id": "6bc60253-3fd8-4cd6-a35b-fda87c187e8a",
+  "set": "1622811855AviaryDemo_0119_ac_transcript_0 [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6.45221,
+      "annotation": [
+        {
+          "text": "Speaker 1:",
+          "bold": true
+        },
+        {
+          "text": " You have a lot of audio and video content that you wanna share. Even if you have it organized, It's often hard for people to find exactly what they are looking for. It'd be nice if people could search audio visual content in the same way that they search across and through text documents. It's almost as if your audio and video files are stranded; separated from other content. It simply doesn't feel like they are being used to their fullest potential."
+        }
+      ],
+      "tags": [],
+      "uuid": "4504dc7d-c6f5-4847-b8a3-11db82c2cca2"
+    },
+    {
+      "start_time": 6.45221,
+      "end_time": 14,
+      "annotation": [
+        {
+          "text": "Speaker 1:",
+          "bold": true
+        },
+        {
+          "text": " Enter Aviary, a platform for sharing, searching, and navigating audiovisual content in a totally new way."
+        }
+      ],
+      "tags": [],
+      "uuid": "473b70a2-b0c0-479a-885a-9156decfe16d"
+    },
+    {
+      "start_time": 14,
+      "end_time": 20,
+      "annotation": [
+        {
+          "text": "Speaker 1:",
+          "bold": true
+        },
+        {
+          "text": " You can search across all content in Aviary using keywords and phrases."
+        }
+      ],
+      "tags": [],
+      "uuid": "41e77e0a-fa59-40d7-83b1-5a8259ce0be3"
+    }
+  ]
+}

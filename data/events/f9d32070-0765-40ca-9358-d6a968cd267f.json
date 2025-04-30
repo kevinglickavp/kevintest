@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "e5e9a789-7090-41ed-a639-b56bbe2a01c0": {
+      "label": "AV File 3",
+      "file_url": "https://aviary-p-weareavp.s3.wasabisys.com/collection_resource_files/resource_files/000/267/394/original/NEW_1741894288_AviaryDemo_0119_ac.mp4?1741894288",
+      "duration": 6.01
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-04-30T14:43:04.845Z",
+  "created_by": "kevinglickavp",
+  "item_type": "Video",
+  "label": "Intro to Aviary",
+  "updated_at": "2025-04-30T14:43:04.845Z",
+  "updated_by": "kevinglickavp"
+}

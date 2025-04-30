@@ -1,0 +1,171 @@
+{
+  "event_id": "f4bcce47-bf33-4367-9f9b-cea83a5778bd",
+  "source_id": "919c3ea9-a373-490c-9f5b-89179d5829d8",
+  "set": "Intro to Aviary Annotation Set [Transcript]",
+  "annotations": [
+    {
+      "start_time": 28.97077,
+      "end_time": 57.24365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "See an example search across all publicly accessible Aviary content "
+                }
+              ]
+            },
+            {
+              "type": "link",
+              "url": "https://www.aviaryplatform.com/catalog?transliteration_status=false&search_field=advanced&search_type=simple&title_text[]=&resource_description[]=&indexes[]=&transcript[]=&op[]=&type_of_search[]=simple&type_of_field_selector[]=simple&keywords[]=",
+              "children": [
+                {
+                  "text": "here"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "de0a2695-321b-4fd4-8116-576159160d4a"
+    },
+    {
+      "start_time": 28.97077,
+      "end_time": 57.24365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Aviary, an index is time-coded metadata (names, subjects, keywords, partial transcripts, locations, hyperlinks, DMCI, etc.) that is attached to audiovisual media files, and references the places where they occur in the media file (timecode). In this way, an Aviary index is similar to an index typically found at the end of a book, which has similar references to the pages that such metadata can be found on. Rather than page number references, an Aviary Index includes timecode references. See more info "
+            },
+            {
+              "type": "link",
+              "url": "https://coda.aviaryplatform.com/indexes-135",
+              "children": [
+                {
+                  "text": "here"
+                }
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a2d28c46-6741-4af5-89d0-fa883c8566b3"
+    },
+    {
+      "start_time": 28.97077,
+      "end_time": 57.24365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aviary transcripts contain time codes that synchronize text with sounds in an associated media file. These synchronized transcripts are displayed alongside media files while viewing videos or listening to audio that is embedded on an Aviary Resource Detail page. For more info, "
+            },
+            {
+              "type": "link",
+              "url": "https://coda.aviaryplatform.com/transcripts-137",
+              "children": [
+                {
+                  "text": "click here"
+                }
+              ]
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d88ea8e0-8dbd-4284-bbc5-45d81c52b870"
+    },
+    {
+      "start_time": 28.97077,
+      "end_time": 57.24365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a;lkfjda;lfkj;dalkjfkda;lf"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b497fb0f-2823-4ca9-ba82-195d9d3e1a80"
+    },
+    {
+      "start_time": 1.47,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "See an example search across all publicly accessible Aviary content "
+                }
+              ]
+            },
+            {
+              "type": "link",
+              "url": "https://www.aviaryplatform.com/catalog?transliteration_status=false&search_field=advanced&search_type=simple&title_text[]=&resource_description[]=&indexes[]=&transcript[]=&op[]=&type_of_search[]=simple&type_of_field_selector[]=simple&keywords[]=",
+              "children": [
+                {
+                  "text": "here"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "67c57ffd-43fd-4fc8-ad60-710821d86871"
+    },
+    {
+      "start_time": 57.24365,
+      "end_time": 81.23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aviary platform"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bcd4d08a-f5b9-4022-bedf-0fdb960dc017"
+    }
+  ]
+}

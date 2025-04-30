@@ -1,0 +1,62 @@
+{
+  "event_id": "f4bcce47-bf33-4367-9f9b-cea83a5778bd",
+  "source_id": "919c3ea9-a373-490c-9f5b-89179d5829d8",
+  "set": "Aviary Intro 10-23-2023 16:32 [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Example Title #1"
+        }
+      ],
+      "tags": [],
+      "uuid": "914ccc88-aaa4-4c89-83dc-0d3a4ec1a20b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Example Synopsis"
+        }
+      ],
+      "tags": [],
+      "uuid": "531dc7f4-bd54-4abe-82da-be7d73ff5ae6"
+    },
+    {
+      "start_time": 45,
+      "end_time": 75,
+      "annotation": [
+        {
+          "text": "Example Title #2"
+        }
+      ],
+      "tags": [],
+      "uuid": "abea3c9b-4d99-4688-b55c-0a95b22d72f5"
+    },
+    {
+      "start_time": 45,
+      "end_time": 75,
+      "annotation": [
+        {
+          "text": "Example Synopsis #2"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc73daf4-2654-4f9f-adea-080608b03004"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "text": "Parent Title"
+        }
+      ],
+      "tags": [],
+      "uuid": "36ec3acc-9321-4ea5-97ef-d8b8f1fd18de"
+    }
+  ]
+}
