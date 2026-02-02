@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "0f46959a-9ced-446b-935c-c36b191b8e39": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/295/613/original/16.%20Working%20Group%20meetings%20%28individual%20Groups%20-%20organize%20and%20agreement%20on%20how%20to%20operate%29%20%7C%20GROUP%202.mp4?1760667102",
+      "duration": 3991.8,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Testing"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-02T14:01:51.795Z",
+  "created_by": "kevinglickavp",
+  "label": "Media File 1 of 1 - 16. Working Group meetings (individual Groups - organize and agreement on how to operate) | GROUP 2.mp4",
+  "updated_at": "2026-02-02T14:01:51.795Z",
+  "updated_by": "kevinglickavp",
+  "rights_statement": ""
+}
